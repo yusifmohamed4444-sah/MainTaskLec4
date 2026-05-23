@@ -4,3 +4,5 @@ https://github.com/yusifmohamed4444-sah/Student-Management-System
 
 
 # MainTaskLec4
+
+the foreach 
